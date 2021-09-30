@@ -1,2 +1,2 @@
-# TailWilnd-project-examples
-There are as useful TailWind template projects
+# Tailwind project examples
+## There are as useful Tailwind template projects
